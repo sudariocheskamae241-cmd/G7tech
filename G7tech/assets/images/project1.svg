@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" role="img" aria-label="Project card illustration for RUN!">
+  <rect width="800" height="900" fill="#1d2430"/>
+  <circle cx="180" cy="180" r="180" fill="#b8ff00" opacity="0.9"/>
+  <circle cx="600" cy="200" r="170" fill="#6c20ff" opacity="0.7"/>
+  <circle cx="300" cy="620" r="180" fill="#ffffff" opacity="0.9"/>
+  <rect x="180" y="250" width="440" height="450" rx="36" fill="#f4734e"/>
+  <rect x="240" y="320" width="320" height="300" rx="16" fill="#fbfbfb"/>
+  <polygon points="320,250 520,250 420,100" fill="#b8ff00" opacity="0.95"/>
+</svg>

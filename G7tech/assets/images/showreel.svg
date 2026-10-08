@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Dark showreel thumbnail with a play button and stylized motion design elements">
+  <defs>
+    <linearGradient id="bgShow" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#0e121b"/>
+      <stop offset="100%" stop-color="#1a1d29"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bgShow)"/>
+  <circle cx="600" cy="350" r="400" fill="#111b25"/>
+  <rect x="80" y="140" width="1040" height="420" rx="28" fill="#171d27"/>
+  <rect x="300" y="470" width="600" height="60" rx="18" fill="#262b36"/>
+  <rect x="330" y="488" width="34" height="26" rx="8" fill="#0d1116"/>
+  <rect x="400" y="488" width="34" height="26" rx="8" fill="#0d1116"/>
+  <rect x="470" y="488" width="34" height="26" rx="8" fill="#0d1116"/>
+  <rect x="540" y="488" width="34" height="26" rx="8" fill="#0d1116"/>
+  <rect x="610" y="488" width="34" height="26" rx="8" fill="#0d1116"/>
+  <rect x="680" y="488" width="34" height="26" rx="8" fill="#0d1116"/>
+  <rect x="750" y="488" width="34" height="26" rx="8" fill="#0d1116"/>
+  <rect x="820" y="488" width="34" height="26" rx="8" fill="#0d1116"/>
+  <circle cx="600" cy="350" r="120" fill="#b8ff00"/>
+  <circle cx="600" cy="350" r="100" fill="#ffffff" opacity="0.9"/>
+  <polygon points="560,300 560,400 640,350" fill="#171d27"/>
+  <rect x="245" y="354" width="90" height="210" rx="20" fill="#6c20ff" opacity="0.8"/>
+  <rect x="470" y="300" width="90" height="255" rx="20" fill="#159bff" opacity="0.8"/>
+  <rect x="760" y="320" width="90" height="220" rx="20" fill="#ff9b42" opacity="0.85"/>
+  <rect x="970" y="330" width="90" height="200" rx="20" fill="#b8ff00" opacity="0.9"/>
+</svg>

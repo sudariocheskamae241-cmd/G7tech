@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 820" role="img" aria-label="Portrait illustration of the designer">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1d1531"/>
+      <stop offset="100%" stop-color="#0c0d12"/>
+    </linearGradient>
+    <linearGradient id="purpleJacket" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#7d49ff"/>
+      <stop offset="100%" stop-color="#5127e6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="820" fill="url(#bgGrad)"/>
+  <circle cx="170" cy="170" r="120" fill="#6c20ff" opacity="0.35"/>
+  <circle cx="620" cy="180" r="150" fill="#159bff" opacity="0.35"/>
+  <circle cx="620" cy="610" r="140" fill="#b8ff00" opacity="0.22"/>
+
+  <g transform="translate(120 20)">
+    <rect x="90" y="260" width="380" height="430" rx="42" fill="url(#purpleJacket)"/>
+    <ellipse cx="280" cy="190" rx="160" ry="170" fill="#f4d6a1"/>
+    <path d="M150 160C160 50 245 20 300 22C370 24 440 79 440 172C440 200 431 245 420 260H165C150 238 144 184 150 160Z" fill="#121418"/>
+    <path d="M205 160L160 245L220 235L240 280L290 240L338 289L335 194L286 165L205 160Z" fill="#14171c"/>
+    <circle cx="233" cy="215" r="12" fill="#1b1d22"/>
+    <circle cx="335" cy="215" r="12" fill="#1b1d22"/>
+    <circle cx="229" cy="211" r="4" fill="#fff"/>
+    <circle cx="331" cy="211" r="4" fill="#fff"/>
+    <path d="M245 270C265 278 291 279 314 270" stroke="#d68e7a" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <path d="M250 292C273 302 297 303 320 289" stroke="#d68e7a" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+
+    <rect x="160" y="340" width="18" height="330" rx="9" fill="#b78cff" opacity="0.8"/>
+    <rect x="220" y="340" width="18" height="330" rx="9" fill="#b78cff" opacity="0.8"/>
+    <rect x="280" y="340" width="18" height="330" rx="9" fill="#b78cff" opacity="0.8"/>
+    <rect x="340" y="340" width="18" height="330" rx="9" fill="#b78cff" opacity="0.8"/>
+    <rect x="400" y="340" width="18" height="330" rx="9" fill="#b78cff" opacity="0.8"/>
+  </g>
+</svg>

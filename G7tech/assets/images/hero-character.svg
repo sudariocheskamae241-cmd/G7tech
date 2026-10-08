@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-label="Stylized illustration of a animation creator waving with a film clapperboard">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a1232"/>
+      <stop offset="100%" stop-color="#090b10"/>
+    </linearGradient>
+    <linearGradient id="hoodie" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#7d49ff"/>
+      <stop offset="100%" stop-color="#4b2ae2"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f7d8a0"/>
+      <stop offset="100%" stop-color="#f0bf7a"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#bg)"/>
+  <circle cx="250" cy="160" r="180" fill="#6c20ff" opacity="0.24"/>
+  <circle cx="650" cy="620" r="205" fill="#159bff" opacity="0.24"/>
+  <circle cx="150" cy="620" r="150" fill="#ff9b42" opacity="0.18"/>
+
+  <g transform="translate(175 60)">
+    <ellipse cx="225" cy="470" rx="188" ry="128" fill="#1a1b23" opacity="0.18"/>
+
+    <g transform="translate(80 60)">
+      <path d="M225 194C185 200 172 250 170 290L144 300L128 262L147 168C154 141 176 117 207 108C248 97 287 117 306 150L318 270L278 279L260 248C236 214 251 179 225 194Z" fill="#111315"/>
+      <path d="M189 242C153 242 130 219 126 183C122 155 135 120 166 104L212 89L257 143L245 217L189 242Z" fill="#111315"/>
+      <path d="M276 147C318 148 352 171 369 205L397 297L340 298L333 226L290 196L272 179L276 147Z" fill="#111315"/>
+      <path d="M161 208C203 226 235 223 286 203C287 238 278 287 247 322C218 351 181 361 149 344C115 326 107 283 118 249C130 214 153 200 161 208Z" fill="url(#skin)"/>
+      <ellipse cx="222" cy="263" rx="102" ry="111" fill="url(#skin)"/>
+      <path d="M138 257C162 202 196 185 228 185C266 185 283 212 292 257C276 238 256 231 226 231C194 231 165 239 138 257Z" fill="#141519"/>
+      <ellipse cx="169" cy="270" rx="12" ry="16" fill="#17191e"/>
+      <ellipse cx="267" cy="270" rx="12" ry="16" fill="#17191e"/>
+      <circle cx="169" cy="266" r="4" fill="#fff"/>
+      <circle cx="267" cy="266" r="4" fill="#fff"/>
+      <path d="M193 331C206 343 235 348 258 337" stroke="#d4886d" stroke-width="5" fill="none" stroke-linecap="round"/>
+      <path d="M212 350C230 366 249 367 267 352" stroke="#d4886d" stroke-width="4" fill="none" stroke-linecap="round"/>
+      <path d="M96 345L81 250C50 216 44 176 56 149L95 170L109 273L96 345Z" fill="url(#hoodie)"/>
+      <path d="M351 381L408 282C432 243 490 246 508 287L535 366L466 423L351 381Z" fill="url(#hoodie)"/>
+      <path d="M122 391L164 312L214 359L196 454L110 456L122 391Z" fill="url(#hoodie)"/>
+      <path d="M337 364L364 458L275 469L265 379L337 364Z" fill="url(#hoodie)"/>
+      <path d="M128 395L278 428L260 608L81 612L89 465L128 395Z" fill="url(#hoodie)"/>
+      <path d="M345 381L509 433L514 615L327 615L323 486L345 381Z" fill="url(#hoodie)"/>
+      <rect x="359" y="442" width="156" height="119" rx="22" fill="#1f242d"/>
+      <rect x="382" y="456" width="112" height="34" rx="10" fill="#159bff"/>
+      <rect x="382" y="497" width="95" height="10" rx="5" fill="#f5f5f5"/>
+      <rect x="382" y="527" width="70" height="10" rx="5" fill="#f5f5f5"/>
+      <circle cx="532" cy="446" r="20" fill="#ff9b42"/>
+      <path d="M386 421L420 388L473 421L486 367L532 374L538 422" fill="none" stroke="#f5f5f5" opacity="0.5"/>
+      <path d="M109 609L70 669L94 703L135 644L109 609Z" fill="#f5d0a0"/>
+      <path d="M493 620L533 681L562 668L516 603L493 620Z" fill="#f5d0a0"/>
+    </g>
+  </g>
+</svg>

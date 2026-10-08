@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" role="img" aria-label="Project card illustration for DAYDREAMS">
+  <rect width="800" height="900" fill="#191d27"/>
+  <circle cx="170" cy="160" r="150" fill="#159bff" opacity="0.9"/>
+  <circle cx="620" cy="180" r="170" fill="#ff9b42" opacity="0.75"/>
+  <rect x="220" y="260" width="380" height="420" rx="18" fill="#159bff"/>
+  <ellipse cx="400" cy="380" rx="180" ry="150" fill="#f8c96d"/>
+  <polygon points="230,650 400,420 570,650" fill="#6c20ff"/>
+</svg>
